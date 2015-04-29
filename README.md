@@ -8,7 +8,7 @@
 
 [Package Control](https://packagecontrol.io)
 
-###How?
+###Install Package
 
 The console is accessed via the `ctrl+`\` shortcut or the `View > Show Console menu`. Once open, paste the appropriate Python code for your version of Sublime Text into the console.
 
@@ -20,7 +20,7 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 
 It will change with every release, please to [this page](https://packagecontrol.io/installation).
 
-##Good Package
+###Good Package
 
 - *[Emmet](https://packagecontrol.io/packages/Emmet)* Emmet (ex-Zen Coding) for Sublime Text.
 - *[Can I Use](https://packagecontrol.io/packages/Can%20I%20Use)* Is a plugin for sublime text 2/3 for checking CSS property support.
@@ -30,6 +30,33 @@ It will change with every release, please to [this page](https://packagecontrol.
 - *[Sass](https://packagecontrol.io/packages/Sass)* Sass support for TextMate & Sublime Text (2 & 3).
 - *[MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)* Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 
+###Remove Package
+
+1. `Cmd+shift+P` input `rp`,find `Remove Package`
+2. Selectting you want to removed package
+3. `Enter`
 
 
+##Preferences Sublime Setting
+
+`Preferences -> Settings - User`
+
+```
+{
+    "draw_minimap_border": true,
+    "font_face": "YaHei Consolas Hybrid",
+    "font_size": 17,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage",
+        "Markdown"
+    ],
+    "save_on_focus_lost": true
+}
+```
+
+##Other
+
+[https://github.com/jikeytang/sublime-text](https://github.com/jikeytang/sublime-text)
 
