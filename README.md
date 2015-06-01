@@ -1,8 +1,8 @@
 #About My SublimeText
 
-##Download
+##Download Sublime Text 3
 
-[www.sublimetext.com](http://www.sublimetext.com)
+[Sublime Text 3](http://www.sublimetext.com/3)
 
 ##Sublime Text Package
 
@@ -59,4 +59,3 @@ It will change with every release, please to [this page](https://packagecontrol.
 ##Other
 
 [https://github.com/jikeytang/sublime-text](https://github.com/jikeytang/sublime-text)
-
