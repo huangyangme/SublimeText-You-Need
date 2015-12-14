@@ -37,17 +37,17 @@
 `Preferences -> Settings - User`
 
 ```
-    {
-        "font_face": "Monaco",
-        "font_size": 16,
-        "highlight_line": true,
-        "ignored_packages":
-        [
-            "Markdown",
-            "Vintage"
-        ],
-        "save_on_focus_lost": false
-    }
+{
+    "font_face": "Monaco",
+    "font_size": 16,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "save_on_focus_lost": false
+}
 ```
 
 ##Other
