@@ -42,6 +42,8 @@
     "font_face": "Monaco",
     "font_size": 16,
     "highlight_line": true,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
     "ignored_packages":
     [
         "Markdown",
