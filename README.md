@@ -24,6 +24,7 @@
 - [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter): which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
 - [CSS3](https://packagecontrol.io/packages/CSS3): The most complete CSS support for Sublime Text 3.
 - [New Moon Color Scheme](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme): New Moon Color Scheme for Sublime Text.
+- [Material Theme](https://github.com/equinusocio/material-theme): Material Theme for Sublime Text 3 3103+
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
 
 ###Packages
