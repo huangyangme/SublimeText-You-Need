@@ -1,26 +1,18 @@
-#SublimeText相关
+#About SublimeText You needed
 
-##下载 Sublime Text 3
+##Download
 
 [Sublime Text 3](http://www.sublimetext.com/3)
 
-##Sublime Text Package
+##Package Control
 
 [Package Control](https://packagecontrol.io)
 
-###安装 Package
+###Install Package
 
-输入 `ctrl+`\` 或者打开 `View > Show Console menu`. 在打开的console输入框粘贴如下代码。
+[Install Package Control](https://packagecontrol.io/installation).
 
-Sublime Text 3:
-
-```
-import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
-```
-
-这段代码可能会变化，如果无效，请访问[这个页面](https://packagecontrol.io/installation)。
-
-###一些 Package
+###Some Packages
 
 - [Emmet](https://packagecontrol.io/packages/Emmet): Emmet (ex-Zen Coding) for Sublime Text.
 - [Can I Use](https://packagecontrol.io/packages/Can%20I%20Use): Is a plugin for sublime text 2/3 for checking CSS property support.
@@ -36,14 +28,13 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
 - [Sublime​Linter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint): **SublimeLinter** plugin for JavaScript, using jshint.
 
-###Package操作
+###Packages
 
-- `Cmd+shift+P` 输入 `ip`,找到 `Install Package`
-- `Cmd+shift+P` 输入 `rp`,找到 `Remove Package`
-- `Cmd+shift+P` 输入 `lp`,找到 `List Packages`
+- `Cmd+shift+P` input `ip`,find `Install Package`
+- `Cmd+shift+P` input `rp`,find `Remove Package`
+- `Cmd+shift+P` input `lp`,find `List Packages`
 
-
-##个性化 Sublime
+##Preferences Sublime Setting
 
 `Preferences -> Settings - User`
 
@@ -63,6 +54,6 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 }
 ```
 
-##其他
+##Other
 
 [https://github.com/jikeytang/sublime-text](https://github.com/jikeytang/sublime-text)
