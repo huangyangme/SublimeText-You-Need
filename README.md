@@ -25,6 +25,7 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 - [Emmet](https://packagecontrol.io/packages/Emmet): Emmet (ex-Zen Coding) for Sublime Text.
 - [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify): HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js.
 - [Jade](https://packagecontrol.io/packages/Jade): This was made specifically for Sublime Text 2, but was tested and works with Textmate 2 and Sublime Text 3.
+- [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions): JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.
 - [jQuery](https://packagecontrol.io/packages/jQuery): Sublime Text package bundle for jQuery.
 - [Sass](https://packagecontrol.io/packages/Sass): Sass support for TextMate & Sublime Text (2 & 3).
 - [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
