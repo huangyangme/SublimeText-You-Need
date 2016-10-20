@@ -68,3 +68,4 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 ##其他
 
 [https://github.com/jikeytang/sublime-text](https://github.com/jikeytang/sublime-text)
+[Colorsublime themes collection](http://colorsublime.com/)
