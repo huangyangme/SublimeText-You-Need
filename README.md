@@ -30,8 +30,8 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 - [Sass](https://packagecontrol.io/packages/Sass): Sass support for TextMate & Sublime Text (2 & 3).
 - [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 - [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter): which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
-- [CSS3](https://packagecontrol.io/packages/CSS3): The most complete CSS 
-- support for Sublime Text 3.
+- [CSS3](https://packagecontrol.io/packages/CSS3): The most complete CSS support for Sublime Text 3.
+- [rem-unit](https://packagecontrol.io/packages/rem-unit): 一个输入px可转为rem的Sublime Text 3自动完成插件。
 - [New Moon Color Scheme](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme): New Moon Color Scheme for Sublime Text.
 - [Material Theme](https://github.com/equinusocio/material-theme): Material Theme for Sublime Text 3 3103+
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
